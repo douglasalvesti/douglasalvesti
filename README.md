@@ -1,41 +1,76 @@
 <h1 align="center">👋 Olá! Eu sou o Douglas Alves</h1>
 
 <p align="center">
-🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
-🔐 Foco em Cibersegurança e Redes <br>
-💻 Apaixonado por tecnologia e aprendizado contínuo <br>
-🚀 Sempre buscando evoluir com projetos práticos
+💻 Desenvolvedor em formação <br>
+🎓 Análise e Desenvolvimento de Sistemas <br>
+🚀 Foco em desenvolvimento backend e segurança <br>
 </p>
 
 ---
 
-### 🚀 Tecnologias em aprendizado
+## 🚀 Sobre mim
 
-- 🐍 Python (POO e automações)
-- 🌐 HTML, CSS, JavaScript
-- 🐧 Linux (comandos, estrutura de pastas, usuários)
-- 🔐 Segurança ofensiva (TryHackMe, CTFs, práticas de pentest)
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento web e interesse em segurança da informação.
 
----
+Atualmente venho desenvolvendo projetos práticos com integração entre frontend e backend, utilizando Python, JavaScript e APIs.
 
-### 🧠 Projetos em Destaque
-
-🔹 [Cibersegurança Labs](https://github.com/douglasalvesti/ciberseguran-a-labs)  
-Estudos, desafios e labs práticos de segurança ofensiva e redes.
-
-🔹 Repositório com projetos da faculdade _(em breve)_
+Busco minha primeira oportunidade na área de tecnologia para aplicar e evoluir minhas habilidades na prática.
 
 ---
 
-### 🎯 Objetivo
+## 🛠️ Tecnologias
 
-Criar um portfólio sólido e prático durante toda a faculdade, documentando minha jornada e me preparando para as melhores oportunidades na área de tecnologia.
+- Python (Flask)
+- HTML, CSS, JavaScript
+- Git e GitHub
+- Linux
+- JSON / APIs REST
 
 ---
 
-### 📫 Onde me encontrar
+## 💼 Projeto em Destaque
 
-- LinkedIn: [linkedin.com/in/douglas-alves-b44a18222](https://www.linkedin.com/in/douglas-alves-b44a18222/)
-- GitHub: [@douglasalvesti](https://github.com/douglasalvesti)
-- Email: [douglaszeiro07@hotmail.com](mailto:douglaszeiro07@hotmail.com)
+### 🏥 AgendaMed - Sistema de Agendamento
 
+Sistema completo de agendamento de consultas com integração entre frontend e backend.
+
+🔹 Funcionalidades:
+- Agendamento de consultas
+- Consulta por CPF
+- Cancelamento de consultas
+- Exibição de horários disponíveis
+
+🔹 Tecnologias:
+- HTML, CSS, JavaScript
+- Python (Flask)
+- JSON
+
+📂 Repositório:  
+https://github.com/douglasalvesti/agenda-med
+
+🎥 Demonstração:  
+https://youtu.be/npMdSiH6ZA4
+
+---
+
+## 🧠 Estudos e Prática
+
+🔐 Segurança da informação (TryHackMe, CTFs)  
+🐧 Linux (uso prático e comandos)  
+📚 Estrutura de dados e lógica  
+
+---
+
+## 🎯 Objetivo
+
+Conseguir minha primeira oportunidade como desenvolvedor ou área de tecnologia, evoluindo através de projetos reais e experiência prática.
+
+---
+
+## 📫 Contato
+
+📎 LinkedIn:  
+https://www.linkedin.com/in/douglas-alves-b44a18222/
+
+📧 Email:  
+douglaszeiro07@hotmail.com
