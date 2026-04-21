@@ -21,11 +21,9 @@ Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia e 
 ## 🛠️ Tecnologias
 
 - Python (Flask)
+- APIs REST
 - HTML, CSS, JavaScript
 - Git e GitHub
-- Linux
-- JSON / APIs REST
-
 ---
 
 ## 💼 Projeto em Destaque
