@@ -30,7 +30,7 @@ Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia e 
 
 ### 🏥 AgendaMed - Sistema de Agendamento
 
-Sistema completo de agendamento de consultas com integração entre frontend e backend.
+Sistema de agendamento de consultas com integração entre frontend e backend, permitindo gerenciamento de horários, consultas e usuários.
 
 🔹 Funcionalidades:
 - Agendamento de consultas
@@ -53,15 +53,15 @@ https://youtu.be/npMdSiH6ZA4
 
 ## 🧠 Estudos e Prática
 
-🔐 Segurança da informação (TryHackMe, CTFs)  
-🐧 Linux (uso prático e comandos)  
-📚 Estrutura de dados e lógica  
+Segurança da Informação (TryHackMe, CTFs e fundamentos de segurança)
+Linux (uso prático, comandos e ambiente)
+Estrutura de dados e lógica de programação  
 
 ---
 
 ## 🎯 Objetivo
 
-Conseguir minha primeira oportunidade como desenvolvedor ou área de tecnologia, evoluindo através de projetos reais e experiência prática.
+Busco minha primeira oportunidade como desenvolvedor backend, aplicando conhecimentos em Python, APIs e boas práticas de desenvolvimento seguro.
 
 ---
 
