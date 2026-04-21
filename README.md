@@ -10,11 +10,11 @@
 
 ## 🚀 Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento web e interesse em segurança da informação.
+Sou estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento backend e interesse em segurança da informação.
 
-Atualmente venho desenvolvendo projetos práticos com integração entre frontend e backend, utilizando Python, JavaScript e APIs.
+Atualmente desenvolvo projetos práticos utilizando Python, Flask e APIs, buscando aplicar boas práticas de organização, autenticação e proteção de dados.
 
-Busco minha primeira oportunidade na área de tecnologia para aplicar e evoluir minhas habilidades na prática.
+Meu objetivo é conquistar minha primeira oportunidade na área de tecnologia e evoluir continuamente através de projetos reais.
 
 ---
 
